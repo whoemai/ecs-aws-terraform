@@ -3,10 +3,6 @@
 
   
 
-Primeiro projeto de Infraestrutura como código com docker, utilizando Terraform para provisionamento e AWS como provedor da infraestrutura.
-
-  
-
 ## 🔨 Funcionalidades do projeto
 
   
