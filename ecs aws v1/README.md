@@ -41,14 +41,6 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 
   
 
-## 📁 Acesso ao projeto
-
-  
-
-Você pode [baixar o zip](https://github.com/leollo98/iac-curso5/archive/refs/heads/Aula_6.zip) ou [acessar o código fonte](https://github.com/leollo98/iac-curso5/tree/Aula_6) do projeto final.
-
-  
-
 ## 🛠️ Abrir e rodar o projeto
 
   
